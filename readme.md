@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">An Engineering Manager with SDET background from Argentina</h3>
 
-- 🔭 I’m currently working on: [Tiendanube](https://www.tiendanube.com/ingenieria)
+- 🔭 I’m currently working on <a href="https://www.tiendanube.com/ingenieria" target="_blank"><img src="https://user-images.githubusercontent.com/12550338/125490413-7348f917-7306-485d-9b6e-f95f1a068808.png" alt="tiendanube" width="10%" height="10%"/></a>
 
 - 💬 Ask me about: **software automation and software testing**
 
 - 📫 How to reach me: **sebastianmsandri@gmail.com**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/sebastiansandri/](https://www.linkedin.com/in/sebastiansandri/)
+- 📄 Know about my experiences at [in/sebastiansandri/](https://www.linkedin.com/in/sebastiansandri/)
 
 - ⚡ Fun fact: **I love scale plastic modeling (tanks, airplanes and gunpla)**
 
@@ -37,3 +37,5 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
   </a> 
 </p>
+
+
