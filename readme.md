@@ -37,5 +37,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssandri&theme=react&layout=compact" />
+</p>
 
